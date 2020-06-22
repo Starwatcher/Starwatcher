@@ -12,3 +12,13 @@ Bot developers: Tomas#9284,JunkMeal#1464 and [ dank ] Voltrex Master#000
 
 
 If you want to get more information about us go to https://sites.google.com/view/starwatcher/home
+
+
+# What is Starwatcher?
+Starwatcher is an multi-propuse bot for your discord server.
+Starwatcher is not an simple bot.Starwatcher can make your server better!
+
+# Can i self-host starwatcher?
+We will relase self-hosting soon!
+
+# How to use Starwatcher
