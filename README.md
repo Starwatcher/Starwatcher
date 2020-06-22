@@ -35,3 +35,5 @@ Settings:  !setchannel report [channel] , !setchannel suggestion [channel] , !se
 # Join our team
 Go to https://sites.google.com/view/starwatcher/apply and apply!
 
+* TEST
+*TEST
