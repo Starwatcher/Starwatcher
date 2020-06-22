@@ -18,7 +18,20 @@ If you want to get more information about us go to https://sites.google.com/view
 Starwatcher is an multi-propuse bot for your discord server.
 Starwatcher is not an simple bot.Starwatcher can make your server better!
 
-# Can i self-host starwatcher?
+# Self Hosting
 We will relase self-hosting soon!
 
 # How to use Starwatcher
+You can see our official tutorial at https://www.youtube.com/watch?v=U9pLm5ebPHQ.
+
+# Commands
+General:  !feedback [message]
+Admin:  !ban , !kick , !warn , !delwarn , !announce [message]
+Fun:  !say , !poll
+Guild:  Placeholder
+Information:  !uinfo , !changelog , !botstats
+Settings:  !setchannel report [channel] , !setchannel suggestion [channel] , !setchannel welcome [channel] , !setchannel goodbye [channel] , !preifx [new prefix] , !setchannel announcement [channel]
+
+# Join our team
+Go to https://sites.google.com/view/starwatcher/apply and apply!
+
