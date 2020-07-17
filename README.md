@@ -34,7 +34,3 @@ You can see our official tutorial at https://www.youtube.com/watch?v=U9pLm5ebPHQ
 
 # Join our team
 Go to https://sites.google.com/view/starwatcher/apply and apply!
-
-
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="bot-starwatcher"></dbl-widget>
